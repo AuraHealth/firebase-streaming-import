@@ -38,3 +38,6 @@ optional arguments:
   -p, --priority_mode   Run this script in priority mode after running it in
                         normal mode to write all priority values.
 ```
+
+Example:
+python import.py URL ./filename.json
